@@ -7,14 +7,14 @@ Scrella-MP3 is a YouTube to MP3 converter.
 
 In the root folder, you will need to build the project using the command below.
 
-```bash
-C:\Users\'[username]'\Documents\'[root folder for project]'\Scrella-MP3>
+```text
+C:\Users\[username]\Documents\[root folder for project]\Scrella-MP3> dotnet build
 ```
 
 ## Usage
 
-```bash
-C:\Users\'[username]'\Documents\'[root folder for project]'\Scrella-MP3\Scrella-MP3\bin\Debug\net6.0
+``````text
+C:\Users\[username]\Documents\[root folder for project]\Scrella-MP3\Scrella-MP3\bin\Debug\net6.0\Scrella-MP3.exe
 
 ```
 
